@@ -1,27 +1,21 @@
-# PlaystationStoreProject
+# Playstation Store Landing Page Clone w/ Angular 🎮🚀
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+Este é um projeto que utiliza **Angular** para criar um clone da landing page da Playstation Store, proporcionando uma experiência semelhante à plataforma oficial.
 
-## Development server
+## Recursos 🌟
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Interface Responsiva**: Garante uma experiência de usuário agradável em diferentes dispositivos.
+- **Navegação Simples**: Explore facilmente os diferentes jogos e categorias oferecidos pela Playstation Store.
 
-## Code scaffolding
+## Tecnologias Utilizadas 💻
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Angular**: Framework TypeScript para construção de aplicações web.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
 
-## Build
+## Autor 📝
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[Aníbal F.](https://github.com/anibalfn/)
 
-## Running unit tests
+## Licença 📜
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este projeto está licenciado sob a [MIT License](LICENSE).
